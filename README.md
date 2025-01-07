@@ -7,6 +7,8 @@ An interactive application that allows users to upload PDFs, process them, and a
 
 https://github.com/user-attachments/assets/8c14460d-9e5d-48a7-8b4d-d16cc631bcee
 
+## Live Demo
+🚀 [Try the application here](http://3.7.254.120/)
 
 ## Features
 
